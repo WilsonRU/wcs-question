@@ -16,5 +16,3 @@ c = !(a > b);
 - B: An error will be reported because ! can work only with an int
 - C: A value 1 will be assigned to c.
 - D: A value false will be assigned to c
-
-<h1>View my c code</h1>
